@@ -17,7 +17,6 @@ div{
 
 /*  Banner  */
 .banner{
-    /* background-image: url("Images/700_F_143644945_9IlYaKTcXBOSEJqd0DERxMPMtzeZVspU_ST.mp4"); */
     background-image: url("Images/usiness-people-meeting-to-discuss-the-situation-on-the-marketing.jpg");
     background-size: cover;
     background-position: center;
@@ -113,15 +112,11 @@ strong{
 }
 
 .col-md-3{
-    /* width: 50%;
-    height: 75%; */
-    /* flex-wrap:wrap-reverse; */
     flex-wrap:wrap;
     margin: 0;
   
 }
 
-/* puede sacar con img  */
 
 .card img:hover {
     box-shadow: 0 0 30px 10px rgba(100, 99, 99, 0.1);
