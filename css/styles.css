@@ -38,6 +38,11 @@ div{
     font-weight: bold;
 }
 
+.banner .p2{
+    font-size: 18px;
+    color:black;
+}
+
 
 h1,h2,h3{
     font-family: 'Nunito', sans-serif;
