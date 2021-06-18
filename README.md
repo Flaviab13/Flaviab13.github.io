@@ -1,3 +1,3 @@
 # Flaviab13.github.io
-### Front-End Introduction 💻
+### Front-End Introduction 💻 - Le Wagon
 My project site   
